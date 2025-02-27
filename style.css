@@ -1,0 +1,95 @@
+body{ margin: 0px;
+    padding: 0px;    
+    background-color: rgb(189, 11, 11);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+   
+    #navbar{ margin: 0px;
+    padding: 0px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    text-align: center;}
+img{
+    width: 150px;
+}
+
+#informaçoes{
+    margin: 5px;
+        padding: 5px;
+        background-color: rgb(112, 9, 9);
+        display: flex;
+        color: aliceblue;
+
+}
+.informaçao{
+    padding: 5px;
+    border: 5px;
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+    width: 800px;
+
+}
+#foto1{
+    width: 300px;
+}
+#foto2{
+    width: 300px;
+}
+
+#foto3{
+    width: 300px;
+}
+
+
+#foto4{
+    width: 200px;
+}
+#foto5{
+    width: 400px;
+}
+
+#foto6{
+    width: 200px;
+}
+#aliados{
+    margin: 5px;
+        padding: 5px;
+        background-color: rgb(207, 89, 89);
+        display: flex;
+        color: aliceblue;
+
+}
+.aliado{
+    padding: 5px;
+    border: 5px;
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+    width: 800px;
+
+}
+
+#viloes{
+    margin: 5px;
+        padding: 5px;
+        background-color: rgb(83, 7, 7);
+        display: flex;
+        color: aliceblue;
+
+}
+.vilao{
+    padding: 5px;
+    border: 5px;
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+    width: 800px;
+
+}
+#foto7{
+    width: 220px;
+}
+#foto8{
+    width: 280px;
+}
+
+#foto9{
+    width: 200px;
+}
