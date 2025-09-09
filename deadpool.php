@@ -1,0 +1,120 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Deadpool</title>
+</head>
+<body>
+    <header>
+        <div id="navbar">
+          <img src="logo].jpg" alt="o deadpool ">  
+          <h1> Deadpool, o the best da Marvel</h1>
+
+        </div>
+    </header>
+
+<main>
+
+    <section id="informaçoes">
+        <div class="informaçao">
+            <img id="foto1" src="2.jpg" alt="o deadpool com cicatrizes"> 
+            <h2> A triste origem do nooso amado anti herói.
+                </h2>
+            <p> Deadpool é um produto do Projeto Arma X.
+                 Depois que eles curaram seu câncer lhe dando um 
+                 fator de cura artificial (extraído de Wolverine), Deadpool foi deixado desfigurado e mentalmente instável. </p>
+        
+        </div>
+        <div class="informaçao">
+            <img id="foto2" src="poderes.jpg" alt="o deadpool cheio de machucados"> 
+               <h2> Seus poderes
+                   </h2>
+               <p> Fator de Cura Regenerativo e Imortalidade. </p>
+
+        </div>
+        <div class="informaçao">
+            <img id="foto3" src="caractere.jpg" alt="o deadpool fazendo o coração com a mao"> 
+               <h2> Suas carcterísticas principais 
+                   </h2>
+               <p> Seu humor e personalidade são suas carcterísticas mais marcantes </p>
+
+        </div>
+    </section>
+
+
+    <section id="aliados">
+        <div class="aliado">
+            <img id="foto4" src="cable.jpg" alt="o deadpool com seu alido Cable"> 
+            <h2>Principal aliado do Deadpool
+                </h2>
+            <p> O Cable, Deadpool foi contratado para matá-lo, contudo, a ligação entre 
+                eles só cresceu com o tempo e o humor absurdo do nooso anti-herói casou 
+                perfeitamente com a seriedade e frieza do mutante </p>
+        
+        </div>
+        <div class="aliado">
+            <img id="foto5" src="logan.jpg" alt="o deadpool com o Wolverine"> 
+            <h2> Seu alido mais "famoso" 
+                    </h2>
+                <p> Wolverine, ambos participaram da Arma X, porém são bem opstos, seu laço 
+                    começa quando Deadpool tenta ressucitar o Logan para salvar o mundo e acaba tendo 
+                    que ir para outra linha do tempo, 
+                    história tão famosa que levou até para os cinemas </p>
+
+        </div>
+        <div class="aliado">
+            <img id="foto6" src="hr.jpg" alt="o deadpool fantasiado de papai noel com o homem aranha"> 
+                <h2> Sue aliado mais parecido 
+                    </h2>
+                <p> O Homem Aranha, são parecidos tanto visualmente quando de serem 
+                    bem humorados,Eles se conheceram quando Deadpool viajou no tempo 
+                    de volta ao passado, onde conheceu Peter Parker 
+                    e fingiu ser ele para conhecer Weasel e desde então são ótimos 
+                    amigos </p>
+
+        </div>
+    </section>
+    
+    <section id="viloes">
+        <div class="vilao">
+            <img id="foto7" src="Cisne Negro.png" alt="o Cisne Negro"> 
+            <h2>Principal vilão do Deadpool
+                </h2>
+            <p> Cisne Negro,ele  era um mutante que tinha um grande poder de infectar a mente de qualquer pessoa, roubar todas 
+                as suas memórias e informações relevantes para ele, O que acabou desencadeando uma grande briga entre os dois foi 
+                que Cisne Negro praticou o maior ato como assassino profissional, porém quem levou todos os créditos foi o Deadpool. </p>
+        
+        </div>
+        <div class="vilao">
+            <img id="foto8" src="ajax.jpg" alt="o Ajax"> 
+            <h2> Vilão mais antigo 
+                    </h2>
+                <p>Ajax, por ser encarregado do Projeto Arma X, Francis era o mais odiado pelos pacientes e em certa ocasião acabou arrancando o coração do Deadpool,
+                     por conta de uma briga que tiveram. Por também participar do projeto Francis ficou muito forte e obteve diversos poderes, o que fez com que se 
+                     transformasse no grande vilão Ajax que foi a procura de todos os pacientes que conseguiram escapar do local maligno.  </p>
+
+        </div>
+        <div class="vilao">
+            <img id="foto9" src="t ray.jpg" alt="o T-Ray"> 
+                <h2> Sue aliado mais famoso 
+                    </h2>
+                <p>T-Ray,T-Ray tinha como objetivo principal ser o melhor mercenário do mercado e para passar essa boa imagem ele deveria acabar com todos 
+                    que entrassem em seu caminho, incluindo o Deadpool </p>
+
+        </div>
+    
+    </section>
+
+</main>
+<footer id="creditos">
+   <p>Telefone de conatato: (678) 99652-3549 (Deadpool sacaninha)
+   </p>
+   <p>Todos os direitos reservados ao Homem Aranha (por favor não me processe, ass: Seu amigo do peito Deadpool)</p>
+
+<p><a href="login.php">Sair</a></p>
+
+</footer>
+</body>
+
+</html>
