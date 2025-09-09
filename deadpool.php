@@ -112,7 +112,7 @@
    </p>
    <p>Todos os direitos reservados ao Homem Aranha (por favor não me processe, ass: Seu amigo do peito Deadpool)</p>
 
-<p><a href="login.php">Sair</a></p>
+<h6><a href="login.php">Sair</a></h6>
 
 </footer>
 </body>

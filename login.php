@@ -56,8 +56,9 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
     
     <div class="card">
         <h3>Bem-vindo, <?= htmlspecialchars($_SESSION["username"]) ?>!</h3>
-        <p>Sessão ativa, certeza que quer sair?.</p>
+        <p>Sessão ativa, certeza que quer sair?</p>
         <p><a href="?logout=1">Sair</a></p>
+        <p><a href="deadpool.php">Permanecer logado</a></p>
     </div>
 
 <?php else: ?>
